@@ -2,5 +2,7 @@
 
 This is our Python basics repo.
 
-We will cover:
-- 'add topics here'
+__We will cover__:
+- Variables
+- Data Type
+- Built-in functions
