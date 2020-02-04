@@ -35,10 +35,10 @@ print(my_string_new.strip())
 print(my_string_new.strip().capitalize())
 
 #EVERY thing upper
-print(my_string_new.upper())
+print(my_string_new.strip().upper())
 
 #Everything lower
-print(my_string_new.lower())
+print(my_string_new.strip().lower())
 
 #a method to separate the string into several string
 new_string = my_string_new.split()
