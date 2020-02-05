@@ -6,3 +6,6 @@ __We will cover__:
 - Variables
 - Data Type
 - Built-in functions
+- Lists
+- Dictionaries
+- Nested Data
