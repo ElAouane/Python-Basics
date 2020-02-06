@@ -17,10 +17,14 @@ user_story = {
 }
 
 # user_story['hero'] = {'Name': input("What is your name"), 'Surname': input(f"May I ask your Surname?")}
+
 # beginning = input(f"Hello,{user_story['hero']['Name']} {user_story['hero']['Surname']}  what is your story? ")
 # user_story['beginning'] = beginning
+
 # middle = input("Ok cut it short please, What is you middle story? ")
 # user_story['middle'] = middle
+
+
 # end = input("the end: ")
 # user_story['end'] = end
 #
